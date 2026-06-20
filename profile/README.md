@@ -1,6 +1,6 @@
 <div align="center">
 
-![TheHumLab Banner](https://raw.githubusercontent.com/TheHumLab/.github/main/HumLab-Banner.png)
+![TheHumLab](HumLab-header.png)
 
 # TheHumLab
 
