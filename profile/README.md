@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Upload banner.png to this repo and uncomment: -->
-<!-- ![TheHumLab Banner](banner.png) -->
+![TheHumLab Banner](https://raw.githubusercontent.com/TheHumLab/.github/main/HumLab-Banner.png)
 
-# 🏠 TheHumLab
+# TheHumLab
 
 **Personal Home Tinkering Lab**
 
@@ -11,7 +10,7 @@ Self-hosted infrastructure, media automation, and homelab experiments.
 
 ---
 
-### 🧰 Projects
+### Projects
 
 | Repo | Description |
 |------|-------------|
